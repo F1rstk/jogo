@@ -43,3 +43,4 @@ C:\Users\filipe.sdiniz\source\repos\teste\teste\obj\Debug\net7.0-windows\refint\
 C:\Users\filipe.sdiniz\source\repos\teste\teste\obj\Debug\net7.0-windows\teste.pdb
 C:\Users\filipe.sdiniz\source\repos\teste\teste\obj\Debug\net7.0-windows\teste.genruntimeconfig.cache
 C:\Users\filipe.sdiniz\source\repos\teste\teste\obj\Debug\net7.0-windows\ref\teste.dll
+C:\Users\filipe.sdiniz\source\repos\teste\teste\obj\Debug\net7.0-windows\teste.Properties.Resources.resources
